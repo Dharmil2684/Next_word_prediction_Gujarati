@@ -111,8 +111,8 @@ def predict_next_word(seed_text):
     return predicted_word
 
 # Example Usage
-print(predict_next_word("મારૂ નામ")) 
-# Output: મિત (or contextually relevant word)
+print(predict_next_word("આ પુસ્તકમાં ભારત અને વિદેશના ક્રિકેટ વિશે લખવામાં")) 
+# Output: આવ્યું (or contextually relevant word)
 ```
 
 ---
