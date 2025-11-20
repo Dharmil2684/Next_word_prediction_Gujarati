@@ -46,7 +46,7 @@ _________________________________________________________________
 =================================================================
 Total params: 3,045,632
 
----
+```
 
 ## 📂 Dataset
 The biggest challenge in Indic NLP is the scarcity of clean datasets. We aggregated data from:
