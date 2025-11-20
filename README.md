@@ -11,8 +11,8 @@ Due to the complex grammar rules of Indic languages and the lack of tagged datas
 
 ## 👥 Collaborators
 This project is a collaborative effort by:
-* **[Insert Name 1]**
-* **[Insert Name 2]**
+* **Dharmil2684**
+* **MitkumarR**
 
 ---
 
